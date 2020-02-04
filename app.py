@@ -33,3 +33,7 @@ def init_logging():
     # 将处理器添加到日志器
     logger.addHandler(sh)
     logger.addHandler(fh)
+
+
+if __name__ == '__main__':
+    print("测试代码")
