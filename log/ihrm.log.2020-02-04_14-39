@@ -1,0 +1,12 @@
+2020-02-04 14:39:41,448 INFO [root] [__init__.py(<module>:7)] - 打印日志
+2020-02-04 14:39:41,822 INFO [root] [hm_test_01_login.py(test_01:41)] - 返回数据为:{'success': True, 'code': 10000, 'message': '操作成功！', 'data': '1201a273-359d-4b2c-9962-e633884ef5b2'}
+2020-02-04 14:39:41,918 INFO [root] [hm_test_01_login.py(test_01:41)] - 返回数据为:{'success': False, 'code': 20001, 'message': '用户名或密码错误', 'data': None}
+2020-02-04 14:39:42,016 INFO [root] [hm_test_01_login.py(test_01:41)] - 返回数据为:{'success': False, 'code': 20001, 'message': '用户名或密码错误', 'data': None}
+2020-02-04 14:39:42,107 INFO [root] [hm_test_01_login.py(test_01:41)] - 返回数据为:{'success': False, 'code': 20001, 'message': '用户名或密码错误', 'data': None}
+2020-02-04 14:39:42,190 INFO [root] [hm_test_01_login.py(test_01:41)] - 返回数据为:{'success': False, 'code': 20001, 'message': '用户名或密码错误', 'data': None}
+2020-02-04 14:39:42,286 INFO [root] [hm_test_01_login.py(test_01:41)] - 返回数据为:{'success': False, 'code': 20001, 'message': '用户名或密码错误', 'data': None}
+2020-02-04 14:39:42,364 INFO [root] [hm_test_01_login.py(test_01:41)] - 返回数据为:{'success': False, 'code': 20001, 'message': '用户名或密码错误', 'data': None}
+2020-02-04 14:39:42,454 INFO [root] [hm_test_01_login.py(test_01:41)] - 返回数据为:{'success': False, 'code': 20001, 'message': '用户名或密码错误', 'data': None}
+2020-02-04 14:39:42,536 INFO [root] [hm_test_01_login.py(test_02:60)] - 多参返回数据为:{'success': True, 'code': 10000, 'message': '操作成功！', 'data': 'f9a72e7a-9016-4403-978b-918e6d98373a'}
+2020-02-04 14:39:42,612 INFO [root] [hm_test_01_login.py(test_03:69)] - 少参返回数据为:{'success': False, 'code': 20001, 'message': '用户名或密码错误', 'data': None}
+2020-02-04 14:39:42,687 INFO [root] [hm_test_01_login.py(test_04:79)] - 错误参数返回数据为:{'success': False, 'code': 20001, 'message': '用户名或密码错误', 'data': None}

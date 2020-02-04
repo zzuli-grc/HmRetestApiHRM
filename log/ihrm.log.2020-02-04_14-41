@@ -1,0 +1,19 @@
+2020-02-04 14:41:09,740 INFO [root] [__init__.py(<module>:7)] - 打印日志
+2020-02-04 14:41:10,090 INFO [root] [hm_test_01_login.py(test_01:41)] - 返回数据为:{'success': True, 'code': 10000, 'message': '操作成功！', 'data': 'a90e2bd7-11da-40d4-ad00-e920b3263bff'}
+2020-02-04 14:41:10,174 INFO [root] [hm_test_01_login.py(test_01:41)] - 返回数据为:{'success': False, 'code': 20001, 'message': '用户名或密码错误', 'data': None}
+2020-02-04 14:41:10,267 INFO [root] [hm_test_01_login.py(test_01:41)] - 返回数据为:{'success': False, 'code': 20001, 'message': '用户名或密码错误', 'data': None}
+2020-02-04 14:41:10,350 INFO [root] [hm_test_01_login.py(test_01:41)] - 返回数据为:{'success': False, 'code': 20001, 'message': '用户名或密码错误', 'data': None}
+2020-02-04 14:41:10,444 INFO [root] [hm_test_01_login.py(test_01:41)] - 返回数据为:{'success': False, 'code': 20001, 'message': '用户名或密码错误', 'data': None}
+2020-02-04 14:41:10,539 INFO [root] [hm_test_01_login.py(test_01:41)] - 返回数据为:{'success': False, 'code': 20001, 'message': '用户名或密码错误', 'data': None}
+2020-02-04 14:41:10,623 INFO [root] [hm_test_01_login.py(test_01:41)] - 返回数据为:{'success': False, 'code': 20001, 'message': '用户名或密码错误', 'data': None}
+2020-02-04 14:41:10,719 INFO [root] [hm_test_01_login.py(test_01:41)] - 返回数据为:{'success': False, 'code': 20001, 'message': '用户名或密码错误', 'data': None}
+2020-02-04 14:41:10,798 INFO [root] [hm_test_01_login.py(test_02:60)] - 多参返回数据为:{'success': True, 'code': 10000, 'message': '操作成功！', 'data': 'f0f1fff4-97f2-42c1-8990-3249d53a5d07'}
+2020-02-04 14:41:10,888 INFO [root] [hm_test_01_login.py(test_03:69)] - 少参返回数据为:{'success': False, 'code': 20001, 'message': '用户名或密码错误', 'data': None}
+2020-02-04 14:41:10,972 INFO [root] [hm_test_01_login.py(test_04:79)] - 错误参数返回数据为:{'success': False, 'code': 20001, 'message': '用户名或密码错误', 'data': None}
+2020-02-04 14:41:11,066 INFO [root] [hm_test_02_emp.py(test_01_login:36)] - 返回数据为:{'success': True, 'code': 10000, 'message': '操作成功！', 'data': '09dd0a0e-85d2-4ce7-8055-00c7f2adbc3b'}
+2020-02-04 14:41:11,158 INFO [root] [hm_test_02_emp.py(test_02_emp_add:45)] - 返回数据为:{'success': True, 'code': 10000, 'message': '操作成功！', 'data': {'id': '1224583661193875456'}}
+2020-02-04 14:41:11,250 INFO [root] [hm_test_02_emp.py(test_03_emp_find:55)] - 返回数据为:{'success': True, 'code': 10000, 'message': '操作成功！', 'data': {'id': '1224583661193875456', 'mobile': '15978812348', 'username': 'd121', 'password': 'ef5a3273e60137ccf0ee7023bd9a815a', 'enableState': 1, 'createTime': None, 'companyId': '1', 'companyName': '传智播客', 'departmentId': None, 'timeOfEntry': None, 'formOfEmployment': None, 'workNumber': '3', 'formOfManagement': None, 'workingCity': None, 'correctionTime': None, 'inServiceStatus': None, 'departmentName': None, 'roleIds': [], 'staffPhoto': None}}
+2020-02-04 14:41:11,364 INFO [root] [hm_test_02_emp.py(test_04_emp_update:64)] - 返回数据为:{'success': True, 'code': 10000, 'message': '操作成功！', 'data': {'id': '1224583661193875456'}}
+2020-02-04 14:41:11,559 INFO [root] [hm_test_02_emp.py(test_04_emp_update:72)] - 返回数据为:小阿giao
+2020-02-04 14:41:11,674 INFO [root] [hm_test_02_emp.py(test_05_emp_del:83)] - 返回数据为:{'success': True, 'code': 10000, 'message': '操作成功！', 'data': None}
+2020-02-04 14:41:11,896 INFO [root] [hm_test_02_emp.py(test_05_emp_del:91)] - 返回数据为:None
